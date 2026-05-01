@@ -28,7 +28,7 @@ git clone https://github.com/saamueldev/atividade-react
 
 Acesse a pasta do projeto:
 
-cd NOME-DO-REPOSITORIO
+cd atividade-react
 
 Instale as dependências:
 
