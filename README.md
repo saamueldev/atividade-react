@@ -24,7 +24,7 @@ Como executar o projeto
 
 Clone o repositório:
 
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+git clone https://github.com/saamueldev/atividade-react
 
 Acesse a pasta do projeto:
 
